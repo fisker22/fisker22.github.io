@@ -1,0 +1,10 @@
+# House Key Credentials to unlock Cafe front door after closing hours
+# Do not share outside authorized staff
+
+[house]
+id = H0U53-443
+env = production
+created_at = 2025-09-04T10:32:45Z
+owner = facilities@ASOC-cafe.local
+
+api_key = hk_live_9d8f3a2e7b1c4f266f89a0b11234567890
